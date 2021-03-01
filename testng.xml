@@ -1,0 +1,9 @@
+<!DOCTYPE suite SYSTEM "http://testng.org/testng-1.0.dtd">
+<suite name="test1" verbose="1">
+    <test name="RegistrationTest" preserve-order="true" enabled="true">
+        <classes>
+            <class name="RegistrationTest"></class>
+        </classes>
+    </test>
+
+</suite>
